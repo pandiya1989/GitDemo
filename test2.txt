@@ -1,2 +1,3 @@
 this is branch2 file
 here we add new file
+i try with revert command
